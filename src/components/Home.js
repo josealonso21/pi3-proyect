@@ -30,7 +30,7 @@ const Home = () => {
       </div>
       <h3>Precio</h3>
       <p>1200 - 1700 soles</p>
-      <h3>Agua generada</h3>
+      <h3>Agua generada por la malla</h3>
       <p>8 - 12 litros diarios</p>
     </div>
   );
