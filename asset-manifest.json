@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/josealonso21/pi3-proyect/static/css/main.455382e1.css",
-    "main.js": "/josealonso21/pi3-proyect/static/js/main.ea74a49c.js",
-    "static/js/787.8e50910a.chunk.js": "/josealonso21/pi3-proyect/static/js/787.8e50910a.chunk.js",
-    "static/media/jose.JPG": "/josealonso21/pi3-proyect/static/media/jose.751f278cc6d285798b0d.JPG",
-    "static/media/total.jpg": "/josealonso21/pi3-proyect/static/media/total.e1110efcc77d90883343.jpg",
-    "static/media/malla.jpg": "/josealonso21/pi3-proyect/static/media/malla.35216eba648fb8402cf6.jpg",
-    "static/media/tubo.jpg": "/josealonso21/pi3-proyect/static/media/tubo.40f0be99e6c3880eae76.jpg",
-    "static/media/filtro.jpg": "/josealonso21/pi3-proyect/static/media/filtro.0ce710186fa865e5531e.jpg",
-    "static/media/piero.jpg": "/josealonso21/pi3-proyect/static/media/piero.21ef064c4dd39958cfd5.jpg",
-    "static/media/lesli.jpg": "/josealonso21/pi3-proyect/static/media/lesli.e4d34ede286fab8ed3e2.jpg",
-    "static/media/slick.svg": "/josealonso21/pi3-proyect/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/josealonso21/pi3-proyect/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/josealonso21/pi3-proyect/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/josealonso21/pi3-proyect/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/josealonso21/pi3-proyect/index.html",
-    "main.455382e1.css.map": "/josealonso21/pi3-proyect/static/css/main.455382e1.css.map",
-    "main.ea74a49c.js.map": "/josealonso21/pi3-proyect/static/js/main.ea74a49c.js.map",
-    "787.8e50910a.chunk.js.map": "/josealonso21/pi3-proyect/static/js/787.8e50910a.chunk.js.map"
+    "main.css": "/pi3-proyect/static/css/main.88aaa930.css",
+    "main.js": "/pi3-proyect/static/js/main.0a7ce560.js",
+    "static/js/787.8e50910a.chunk.js": "/pi3-proyect/static/js/787.8e50910a.chunk.js",
+    "static/media/jose.JPG": "/pi3-proyect/static/media/jose.751f278cc6d285798b0d.JPG",
+    "static/media/total.jpg": "/pi3-proyect/static/media/total.e1110efcc77d90883343.jpg",
+    "static/media/malla.jpg": "/pi3-proyect/static/media/malla.35216eba648fb8402cf6.jpg",
+    "static/media/tubo.jpg": "/pi3-proyect/static/media/tubo.40f0be99e6c3880eae76.jpg",
+    "static/media/filtro.jpg": "/pi3-proyect/static/media/filtro.0ce710186fa865e5531e.jpg",
+    "static/media/piero.jpg": "/pi3-proyect/static/media/piero.21ef064c4dd39958cfd5.jpg",
+    "static/media/lesli.jpg": "/pi3-proyect/static/media/lesli.e4d34ede286fab8ed3e2.jpg",
+    "static/media/slick.svg": "/pi3-proyect/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/pi3-proyect/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/pi3-proyect/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/pi3-proyect/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/pi3-proyect/index.html",
+    "main.88aaa930.css.map": "/pi3-proyect/static/css/main.88aaa930.css.map",
+    "main.0a7ce560.js.map": "/pi3-proyect/static/js/main.0a7ce560.js.map",
+    "787.8e50910a.chunk.js.map": "/pi3-proyect/static/js/787.8e50910a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.455382e1.css",
-    "static/js/main.ea74a49c.js"
+    "static/css/main.88aaa930.css",
+    "static/js/main.0a7ce560.js"
   ]
 }
