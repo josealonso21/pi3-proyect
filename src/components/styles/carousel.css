@@ -1,0 +1,26 @@
+.carousel-container {
+  height: 50vh; /* Utiliza el 50% de la altura de la ventana (viewport height) */
+  width: 50%;
+}
+/* Estilos adicionales para el carrusel (puedes personalizar según sea necesario) */
+.slick-arrow {
+  font-size: 24px;
+  line-height: 1;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #fff;
+  background-color: #4a5bf4;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.slick-prev {
+  left: -10%;
+}
+
+.slick-next {
+  right: -10%;
+}

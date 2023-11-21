@@ -1,0 +1,37 @@
+nav {
+  background-color: #4a5bf4;
+  overflow: hidden;
+  text-align: center; /* Centra el contenido del nav */
+  padding: 10px; /* Agrega espacio alrededor del contenido del nav */
+}
+
+nav a {
+  display: inline-block; /* Hace que los elementos <a> sean bloques en línea */
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #7aabf5;
+  color: black;
+  border-radius: 15%;
+}
+
+.navbar-right {
+  float: none; /* Cambia a 'none' para que no haya flotación en pantallas más pequeñas */
+  margin-top: 10px; /* Agrega espacio en la parte superior para separar del borde superior del nav */
+}
+
+@media screen and (max-width: 600px) {
+  nav a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .navbar-right {
+    margin-top: 0; /* Elimina el espacio superior en pantallas más pequeñas */
+  }
+}
